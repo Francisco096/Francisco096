@@ -8,8 +8,9 @@ Gosto de criar soluções simples e eficientes. Se uma ideia surge, eu coloco a 
 Atualmente, estou focado na **faculdade Unit**. Meu objetivo é aprimorar **minhas habilidade**.
 
 ### 🛠 Minhas ferramentas
-Minha stack principal é **HTML, CSS, JAVASCRIPT**.
-Minhas ferramentas favoritas no dia a dia são **VS Code**.
+- **HTML
+- CSS,
+- JAVASCRIPT**.
 
 ### ⚡ Fatos divertidos
 * 🏐 Prático esportes como o Vôlei.
