@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Francisco096/Francisco096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Francisco, um Desenvolvedor Front-end morando no Brasil.
 
-Here are some ideas to get you started:
+Gosto de criar soluções simples e eficientes. Se uma ideia surge, eu coloco a mão na massa para construí-la.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 No que estou trabalhando
+Atualmente, estou focado em meus estudos na faculdade Unit. Meu objetivo é aprimorar minhas habilidades.
+
+### 🛠 Minhas ferramentas
+Minha stack principal é **[Ferramenta 1], [Ferramenta 2], [Ferramenta 3] e [Ferramenta 4]**.
+Minhas ferramentas favoritas no dia a dia são VS Code.
+
+### ⚡ Fatos divertidos
+* 🏐 Prático esporte como o Vôlei.
+* ☕ Gosto de café.
+* 🎮 Gosto muito de jogar.
+
+---
+
+### 📫 Como me encontrar
+Quer trocar uma ideia? Você pode me mandar uma mensagem no [LinkedIn](Seu Link Aqui) ou um e-mail para **[seuemail@exemplo.com]**.
