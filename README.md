@@ -1,19 +1,19 @@
 # Olá! 👋
 
-Sou **[Francisco]**, um **[Desenvolvedor Front-end]** morando no **[Brasil]**.
+Sou **Francisco**, um **Desenvolvedor Front-end** morando no **Brasil**.
 
 Gosto de criar soluções simples e eficientes. Se uma ideia surge, eu coloco a mão na massa para construí-la.
 
 ### 🔭 No que estou trabalhando
-Atualmente, estou focado na **[faculdade Unit]**. Meu objetivo é aprimorar **[minhas habilidade]**.
+Atualmente, estou focado na **faculdade Unit**. Meu objetivo é aprimorar **minhas habilidade**.
 
 ### 🛠 Minhas ferramentas
 Minha stack principal é **[Ferramenta 1], [Ferramenta 2], [Ferramenta 3] e [Ferramenta 4]**.
-Minhas ferramentas favoritas no dia a dia são **[Ex: VS Code, Figma, Terminal]**.
+Minhas ferramentas favoritas no dia a dia são **VS Code**.
 
 ### ⚡ Fatos divertidos
-* 🏐 Prático esportes como o **[Vôlei]**.
-* ☕ [Gosto] de café.
+* 🏐 Prático esportes como o Vôlei.
+* ☕ Gosto de café.
 * 🎮 Gosto muito de jogar.
 
 ---
