@@ -13,7 +13,7 @@ Minhas ferramentas favoritas no dia a dia são VS Code.
 
 ### ⚡ Fatos divertidos
 * 🏐 Prático esporte como o Vôlei.
-* ☕ Gosto de café.
+* ☕ [Gosto] de café.
 * 🎮 Gosto muito de jogar.
 
 ---
